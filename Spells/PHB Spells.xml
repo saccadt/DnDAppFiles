@@ -1393,7 +1393,7 @@
 		<range>Touch</range>
 		<components>V, S</components>
 		<duration>Instantaneous</duration>
-		<classes>Artificer, Bard, Cleric, Cleric (Life), Druid, Paladin, Ranger</classes>
+		<classes>Artificer, Bard, Cleric, Cleric (Life), Druid, Paladin, Ranger, Warlock (Celestial)</classes>
 		<text>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.</text>
@@ -1446,7 +1446,7 @@
 		<range>60 feet</range>
 		<components>V, S</components>
 		<duration>1 hour</duration>
-		<classes>Cleric, Cleric (Light), Druid, Druid (Grassland), Paladin, Ranger, Sorcerer</classes>
+		<classes>Cleric, Cleric (Light), Druid, Druid (Grassland), Paladin, Ranger, Sorcerer, Warlock (Celestial)</classes>
 		<text>A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.</text>
 		<text />
 		<text>If you chose a point on an object you are holding or one that isn't being worn or carried, the light shines from the object with and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.</text>
@@ -2293,7 +2293,7 @@
 		<range>60 feet</range>
 		<components>V, S, M (pinch of sulfur)</components>
 		<duration>Instantaneous</duration>
-		<classes>Cleric, Cleric (Light), Cleric (War), Paladin (Devotion), Warlock (Fiend)</classes>
+		<classes>Cleric, Cleric (Light), Cleric (War), Paladin (Devotion), Warlock (Celestial), Warlock (Fiend)</classes>
 		<text>A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.</text>
@@ -2307,7 +2307,7 @@
 		<range>60 feet</range>
 		<components>V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Cleric (Light), Druid, Wizard</classes>
+		<classes>Cleric (Light), Druid, Warlock (Celestial), Wizard</classes>
 		<text>A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
 		<text>As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the saving throw against the sphere's damage, and the sphere stops moving this turn.</text>
@@ -2628,7 +2628,7 @@
 		<range>Touch</range>
 		<components>V, S, M (diamond dust worth 100 gp, which the spell consumes)</components>
 		<duration>Instantaneous</duration>
-		<classes>Bard, Cleric, Druid</classes>
+		<classes>Bard, Cleric, Druid, Warlock (Celestial)</classes>
 		<text>You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target.</text>
 		<text />
 		<text>• One effect that charmed or petrified the target</text>
@@ -2647,7 +2647,7 @@
 		<range>30 feet</range>
 		<components>V</components>
 		<duration>8 hours</duration>
-		<classes>Cleric, Cleric (Life), Cleric (Light), Paladin (Crown), Paladin (Devotion)</classes>
+		<classes>Cleric, Cleric (Life), Cleric (Light), Paladin (Crown), Paladin (Devotion), Warlock (Celestial)</classes>
 		<text>A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.</text>
 		<text />
 		<text>Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.</text>
@@ -2707,7 +2707,7 @@
 		<range>120 feet</range>
 		<components>V, S</components>
 		<duration>1 round</duration>
-		<classes>Cleric</classes>
+		<classes>Cleric, Warlock (Celestial)</classes>
 		<text>A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.</text>
 		<text />
 		<text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</text>
@@ -3225,7 +3225,7 @@
 		<range>Touch</range>
 		<components>V, S</components>
 		<duration>Instantaneous</duration>
-		<classes>Artificer, Bard, Cleric, Cleric (Life), Druid, Paladin, Paladin (Devotion), Ranger</classes>
+		<classes>Artificer, Bard, Cleric, Cleric (Life), Druid, Paladin, Paladin (Devotion), Ranger, Warlock (Celestial)</classes>
 		<text>You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.</text>
 	</spell>
 	<spell>
@@ -4529,7 +4529,7 @@
 		<range>Touch</range>
 		<components>V, S, M (diamonds worth 300 gp, which the spell consumes)</components>
 		<duration>Instantaneous</duration>
-		<classes>Artificer, Cleric, Cleric (Life), Paladin</classes>
+		<classes>Artificer, Cleric, Cleric (Life), Paladin, Warlock (Celestial)</classes>
 		<text>You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.</text>
 	</spell>
 	<spell>
@@ -5542,7 +5542,7 @@
 		<range>120 feet</range>
 		<components>V, S, M (a small piece of phosphorus)</components>
 		<duration>Concentration, up to 1 minute</duration>
-		<classes>Cleric (Light), Druid, Sorcerer, Warlock (Fiend), Wizard, Fighter (Eldritch Knight)</classes>
+		<classes>Cleric (Light), Druid, Sorcerer, Warlock (Celestial), Warlock (Fiend), Wizard, Fighter (Eldritch Knight)</classes>
 		<text>You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot think, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot think. The wall is opaque and lasts for the duration.</text>
 		<text />
 		<text>When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 5d8 fire damage, or half as much damage on a successful save.</text>
