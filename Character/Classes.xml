@@ -10814,7 +10814,7 @@
                 <text>Any weapon you create using your Pact of the Blade feature is a +3 weapon. This invocation doesn’t affect a magic weapon you transformed into your pact weapon.</text>
             </feature>
         </autolevel>
-        <-- Xanathar's Guide Celestial -->
+        <!-- Xanathar's Guide Celestial -->
         <autolevel level="1">
             <feature optional="YES">
                 <name>The Celestial: Expanded Spell List </name>
