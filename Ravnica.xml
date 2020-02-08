@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+	<race>
+		<name>Minotaur</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability></ability>
+		<trait>
+			<name>Goring Rush</name>
+			<text>Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action.</text>
+		</trait>
+	</race>
+</compendium>
