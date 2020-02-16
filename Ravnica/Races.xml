@@ -9,6 +9,7 @@
 		<trait>
 			<name>Horns</name>
 			<text>Your horns are natural melee weapons, which you can use to make unarmed stikes. If you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</text>
+		</trait>
 		<trait>
 			<name>Goring Rush</name>
 			<text>Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action.</text>
