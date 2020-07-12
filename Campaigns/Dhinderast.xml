@@ -341,7 +341,7 @@
                 <name>D-Innswood: Woodsmans Hut</name>
                 <text>A simple home that belongs to the local woodsman Guntar Soames.
                 ---------------
-                This simple hut has a wood pile to the side and a chopping block in the back. There is a stone patio with a fire pit for creating charcoal.</text>
+                This simple hut has a wood pile to the side and a chopping block in the back. There is a stone patio with a fire pit for creating charcoal.
                 ---------------
                 There is nothing of interest or treasure in this building.
                 </text>
@@ -403,7 +403,7 @@
                 - Veggie Stew and a Tankard of Beer (4 sp)
                 - Elk Steamed Bun with Crowberry Tart and a Tankard of Cider (5 sp)
                 </text>
-                </expanded>0</expanded>
+                <expanded>0</expanded>
             </note>
             <note>
                 <name>D-Mithlumar: Tethrin's Forge</name>
@@ -772,8 +772,9 @@
         </note>
         <note>
             <name>D: Travel Description</name>
-            <text>You travel along the Triboar Trail to the city of Triboar. The area is mountainous foothills with little to no cover.</text>
+            <text>You travel along the Triboar Trail to the city of Triboar. The area is mountainous foothills with little to no cover.
             </text>
             <expanded>0</expanded>
+        </note>
     </campaign>
 </data>

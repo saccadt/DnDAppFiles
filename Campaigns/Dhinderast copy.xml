@@ -403,7 +403,7 @@
                 - Veggie Stew and a Tankard of Beer (4 sp)
                 - Elk Steamed Bun with Crowberry Tart and a Tankard of Cider (5 sp)
                 </text>
-                </expanded>0</expanded>
+                <expanded>0</expanded>
             </note>
             <note>
                 <name>D-Mithlumar: Tethrin's Forge</name>
@@ -473,7 +473,7 @@
         <!-- 3. Falonde Ruins --> 
         <adventure>
             <name>D: Falonde Ruins</name>
-            <!-- 3. NPCs-->
+            <!-- 3. NPCs -->
             <!-- 3. Encounters -->
             <!-- 3. Treasure -->
             <item>
