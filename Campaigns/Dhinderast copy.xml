@@ -2,54 +2,6 @@
 <data version="5">
     <campaign>
         <name>DhinderastTest</name>
-        <npc>
-            <uid>545</uid>
-            <label>Gundren Rockseeker</label>
-            <name>Dwarf Commoner</name>
-            <type>humanoid (dwarf)</type>
-            <alignment>any alignment</alignment>
-            <ac>15</ac>
-            <armor>Chain Shirt</armor>
-            <hpMax>30</hpMax>
-            <hpCurrent>30</hpCurrent>
-            <hd>4d8+12</hd>
-            <speed>25 ft.</speed>
-            <abilities>13,13,17,12,14,11</abilities>
-            <skill>
-                <id>11</id>
-                <modifier>4</modifier>
-            </skill>
-            <skill>
-                <id>16</id>
-                <modifier>3</modifier>
-            </skill>
-            <skill>
-                <id>17</id>
-                <modifier>4</modifier>
-            </skill>
-            <resist>poison</resist>
-            <senses>darkvision 60 ft.</senses>
-            <passive>14</passive>
-            <languages>Common, Dwarvish</languages>
-            <cr>-1</cr>
-            <trait>
-                <name>Source</name>
-                <text>Tomb of Annihilation, p. 210</text>
-            </trait>
-            <trait>
-                <name>Dwarven Resilience</name>
-                <text>The dwarf has advantage on saving throws against poison.</text>
-            </trait>
-            <action>
-                <name>Handaxe</name>
-                <text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) slashing damage.</text>
-                <attack>
-                    <name>Handaxe</name>
-                    <atk>3</atk>
-                    <dmg>1d6+1</dmg>
-                </attack>
-            </action>
-        </npc>
         <adventure>
             <name>D: Innswood</name>
             <note>
