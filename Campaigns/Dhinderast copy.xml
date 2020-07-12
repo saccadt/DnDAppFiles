@@ -2,7 +2,6 @@
 <data version="5">
     <campaign>
         <name>DhinderastTest</name>
-        <!-- Campaign NPCs -->
         <npc>
             <uid>545</uid>
             <label>Gundren Rockseeker</label>
@@ -51,12 +50,8 @@
                 </attack>
             </action>
         </npc>
-        <!-- Adventures -->
-        <!-- 1. Innswood -->
         <adventure>
             <name>D: Innswood</name>
-            <!-- 1. NPCs-->
-            <!-- 1. Encounters -->
             <encounter>
                 <name>LMoP: Goblin Ambush</name>
                 <state>0</state>
@@ -296,7 +291,6 @@
                     <weight>0.02</weight>
                 </item>
             </encounter>
-            <!-- 1. Treasure -->
             <item>
                 <name>Lightbringer</name>
                 <detail>unique</detail>
@@ -319,7 +313,6 @@
                 <magic>1</magic>
                 <ac>15</ac>
             </item>
-            <!-- 1. Notes -->
             <note>
                 <name>D-Innswood: Description</name>
                 <text>This small outpost only has a few buildings. It is a waypoint between Triboar and Dhinderast.</text>
@@ -371,7 +364,6 @@
                 <expanded>0</expanded>
             </note>
         </adventure>
-        <!-- Campaign Encounters -->
         <encounter>
             <name>Campaign encounter</name>
             <state>0</state>
@@ -431,7 +423,6 @@
                 </monster>
             </combatant>
         </encounter>
-        <!-- Campaign Notes -->
         <note>
             <name>D: Plot Hooks</name>
             <text>At the end of the last campaign Lady Celestra receives a message from her husband Chuck Something (using spell Sending).
