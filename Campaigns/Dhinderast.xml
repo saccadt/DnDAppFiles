@@ -322,7 +322,7 @@
             <!-- 1. Notes -->
             <note>
                 <name>D-Innswood: Description</name>
-                <text>This small outpost only has a few buildings. It is a waypoint between Triboar and Dhinderast.</text>
+                <text>This small outpost only has a few buildings. It is a way point between Triboar and Dhinderast.</text>
                 <expanded>0</expanded>
             </note>
             <note>
@@ -338,7 +338,7 @@
                 <expanded>0</expanded>
             </note>
             <note>
-                <name>D-Innswood: Woodsmans Hut</name>
+                <name>D-Innswood: Woodsman's Hut</name>
                 <text>A simple home that belongs to the local woodsman Guntar Soames.
                 ---------------
                 This simple hut has a wood pile to the side and a chopping block in the back. There is a stone patio with a fire pit for creating charcoal.
@@ -445,7 +445,7 @@
                 <expanded>0</expanded>
             </note>
             <note>
-                <name>D-Mithlulmar: Soft Tails</name>
+                <name>D-Mithlumar: Soft Tails</name>
                 <text>Fletcher store front.
                 Owner: Fletch, Male Elf (think Chevy Chase's character Fletch)
                 Location: Somewhere in the village near the blacksmith.
@@ -767,7 +767,7 @@
         </note>
         <note>
             <name>D: Travel Notes</name>
-            <text>Travel to The Great Halls of Terr’akkas in Waterdeep will take 10 days from Phandalin (by foot) via the High Road  if PCs stick to the roads. If PCs decide to cut across wilderness it takes 6 days (by foot) with multiple survival checks and more dangerous encounters. Alternative route is via Triboar and the Long Road (by foot, 9 days).</text>
+            <text>Travel to The Great Halls of Terr'akkas in Waterdeep will take 10 days from Phandalin (by foot) via the High Road  if PCs stick to the roads. If PCs decide to cut across wilderness it takes 6 days (by foot) with multiple survival checks and more dangerous encounters. Alternative route is via Triboar and the Long Road (by foot, 9 days).</text>
             <expanded>0</expanded>
         </note>
         <note>
