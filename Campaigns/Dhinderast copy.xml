@@ -7,5 +7,11 @@
             <text>Travel to The Great Halls of Terr’akkas in Waterdeep will take 10 days from Phandalin (by foot) via the High Road  if PCs stick to the roads. If PCs decide to cut across wilderness it takes 6 days (by foot) with multiple survival checks and more dangerous encounters. Alternative route is via Triboar and the Long Road (by foot, 9 days).</text>
             <expanded>0</expanded>
         </note>
+        <note>
+            <name>D: Travel Description</name>
+            <text>You travel along the Triboar Trail to the city of Triboar. The area is mountainous foothills with little to no cover.</text>
+            </text>
+            <expanded>0</expanded>
+        </note>
     </campaign>
 </data>
