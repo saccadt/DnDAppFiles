@@ -2,59 +2,6 @@
 <data version="5">
     <campaign>
         <name>DhinderastTest</name>
-        <adventure>
-            <name>D: Innswood</name>
-            <note>
-                <name>D-Innswood: Description</name>
-                <text>This small outpost only has a few buildings. It is a waypoint between Triboar and Dhinderast.</text>
-                <expanded>0</expanded>
-            </note>
-            <note>
-                <name>D-Innswood: Small Army Station</name>
-                <text>This outpost has a small guard shack to help keep the peace along the road and in the Inn. It is manned by 4 soldiers (1 dwarf, 3 human) and 1 commander, Erias Bloodkith (male dwarf, always drinking). They are pretty disgruntled about being in this place and are not getting any support from Dhinderast to deal with the bandit issue or the missing adventurers.
-                Soldiers:
-                - Commander Erias Bloodkith (male dwarf)
-                - Alex Hadleigh (human male)
-                - Rolf Beverly (human male)
-                - Cory Ramsey (human male)
-                - Orsik Fireforge (dwarf male)
-                </text>
-                <expanded>0</expanded>
-            </note>
-            <note>
-                <name>D-Innswood: Woodsmans Hut</name>
-                <text>A simple home that belongs to the local woodsman Guntar Soames.
-                ---------------
-                This simple hut has a wood pile to the side and a chopping block in the back. There is a stone patio with a fire pit for creating charcoal.</text>
-                ---------------
-                There is nothing of interest or treasure in this building.
-                </text>
-                <expanded>0</expanded>
-            </note>
-            <note>
-                <name>D-Innswood: The Angry Bear Inn</name>
-                <text>Owner: Jarth Alston, human male, named the inn/tavern because of an encounter he had with a bear that left him scarred. Knows there are Wood Elves in the area but doesn’t believe they mean any harm to travelers.
-                Patrons:
-                - Alex Hadleigh and Rolf Beverly - 2 soldiers off duty for the weekend. These men are drinking heavily and talking loudly about the lack of support from Dhinderast.
-                - Gunter Soames - local woodsman (human) who works in the edges of Kalen Wood to provide wood and foraged foods (mushrooms, berries, etc.). Peaceful, hermit-like man, he has a gentle presence and is slow to anger unless someone is in danger. He saved Jarth after the bear attack and they have been lifelong friends since. He has no interest in treasure but knows of the ruins. He, like Jarth, doesn’t think the Wood Elves are responsible for the dead travelers…”The tracks look wrong for elves.”
-                - Thomas Ainsley and Diggory Carlyle - 2 local hunters (male human) who don’t like large towns and supply meat to the Inn for room and board when they are in the area. They have been trying to also get to the ruins to find treasure but are always chased off. They avoid the Wood Elves but have seen the remains of travelers hit by the bandits. They suspect the Wood Elves but are too afraid to do anything. They have also been approached by the guard about joining in to deal with the Wood Elves. They are unsure but will probably join if there is a larger group.
-                - Chad Stratford - stable hand - a young man who left Dhinderast to find adventure and life didn’t meet his expectations. He can tell you more about Dhinderast if you want.
-                - Professor Ermina Tewksbury (scholarly woman, human, from the University in Neverwinter) and Vanuath (Van) Yardley guard (male, half-elf, orphaned by his elven father and has a deep hatred for all elves) - 2 travelers from Dhinderast - Ermina hired a group to go and scout the ruins for academic study. They were to set up a base camp and send her a message when it was ready and the area secure. She has not heard from them. Jarth has told her that the group was here 10 days ago and hasn’t been seen since. The guard has heard about the Wood Elves and suspects them. He has been talking to the soldiers about getting a party together to go after them.
-                - Rurik Broodfist - a dwarf male who looks a bit shady - this patron wants something from a witch that lives in Kalen Woods.
-                </text>
-                <expanded>0</expanded>
-            </note>
-            <note>
-                <name>D-Innswood: Commanders Home</name>
-                <text>This thatched roof home houses Commander Erias Bloodkith. 
-                ---------------
-                A thatched roof home that looks pretty run down and not well maintained. The garden is overrun with weeds and there is a pile of liquor bottles and kegs strewn throughout it.
-                ---------------
-                The only items in this home are the Commander, drunk, disgruntled and chases away anyone that approaches him in his home.
-                </text>
-                <expanded>0</expanded>
-            </note>
-        </adventure>
         <note>
             <name>D: Plot Hooks</name>
             <text>At the end of the last campaign Lady Celestra receives a message from her husband Chuck Something (using spell Sending).
