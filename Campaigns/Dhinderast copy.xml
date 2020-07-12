@@ -3,28 +3,8 @@
     <campaign>
         <name>DhinderastTest</name>
         <note>
-            <name>D: Plot Hooks</name>
-            <text>At the end of the last campaign Lady Celestra receives a message from her husband Chuck Something (using spell Sending).
-            ----------------------
-            Hey Beautiful. The Great Halls of Terr'akkas have been great! Guess who I ran into, Jyn'Leeviyah, and we found an exciting discovery. We are heading...
-            ----------------------
-            Lady Celestra's background: She mistrusts Jyn'Leeviyah who has always wanted Chuck Something but he is oblivious to her attempts at seduction.
-
-            The book of lore found in Wave Echo Cave contains a map and some lore related to an elven city of Falonde in the Kalen Forest. The Kalen Forest is along the Long Road and is familiar to Katren as the elven village of Mithlumar is there. She can arrange for rest and provisions (for free) if the adventurers take this route.
-
-            The townmaster asks you to take a message to Triboar to notify them of the Orc bandits decimation and the recovery of Wave Echo Cave. This will increase trade and interest in the city again.
-            </text>
-            <expanded>0</expanded>
-        </note>
-        <note>
             <name>D: Travel Notes</name>
             <text>Travel to The Great Halls of Terr’akkas in Waterdeep will take 10 days from Phandalin (by foot) via the High Road  if PCs stick to the roads. If PCs decide to cut across wilderness it takes 6 days (by foot) with multiple survival checks and more dangerous encounters. Alternative route is via Triboar and the Long Road (by foot, 9 days).</text>
-            <expanded>0</expanded>
-        </note>
-        <note>
-            <name>D: Travel Description</name>
-            <text>You travel along the Triboar Trail to the city of Triboar. The area is mountainous foothills with little to no cover.</text>
-            </text>
             <expanded>0</expanded>
         </note>
     </campaign>
