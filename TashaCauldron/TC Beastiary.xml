@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--Beasts/Monsters are only available as part of the Tasha's Cauldron of Everything *Summon* spells.-->
+<compendium version="5">
+	<monster>
+		<name>Aberrant Spirit</name>
+		<size>M</size>
+		<type>aberation</type>
+		<ac>11 + the level of the spell (natural armor)</ac>
+		<hp>40 + 10 for each spell level above 4th</hp>
+		<speed>30 ft.; fly 30 ft. (hover) (Beholderkin only)</speed>
+		<str>16</str>
+		<dex>10</dex>
+		<con>15</con>
+		<int>16</int>
+		<wis>10</wis>
+		<cha>6</cha>
+		<immune>psychic</immune>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>Deep Speech, understands the languagtes you speak</languages>
+		<cr>00</cr>
+		<trait>
+			<name>Regeneration (Slaad Only)</name>
+			<text>The aberration regains 5 hit points at the start of its turn if it has at least 1 hit point.</text>
+		</trait>
+        <trait>
+            <name>Whispering Aura (Star Spawn Only)</name>
+            <text>At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom saving throw against your spell save DC or take 2d6 sychic damage, provided that the aberation isn't incapacitated.</text>
+            <attack>Whispering Aura|0|2d6</attack>
+        </trait>
+		<action>
+			<name>Multiattack</name>
+			<text>The aberration makes a number of attacks equal to half this spell's level (rounded down).</text>
+		</action>
+		<action>
+			<name>Claws (Slaad Only)</name>
+			<text>Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn.</text>
+			<attack>Claws|0|1d10+3</attack>
+		</action>
+		<action>
+			<name>Eye Ray (Beholderkin Only)</name>
+			<text>Ranged Spell Attack: your spell attack modifier to hit, range 150 ft., one creature. Hit: 1d8 + 3 + the spell's level psychic damage.</text>
+            <attack>Eye Ray|0|1d8+3</attack>
+		</action>
+        <action>
+            <name>Psychic Slam (Star Spawn Only)</name>
+            <text>Melee Spell Attack: your spell attack modifier to hit, reach 5 ft., one creature. Hit: 1d8 + 3 + the spell's level psychic damage.</text>
+            <attack>Psychic Slam|0|1d8+3</attack>
+        </action>
+	</monster>
+</compendium
